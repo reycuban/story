@@ -1,0 +1,4 @@
+This is how we use Git
+1-Make sure you are in the Directory(Main folder)
+2-Create files you want to use or make changes in the future
+3-Git init to initial the save place in other words
