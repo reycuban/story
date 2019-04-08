@@ -1,0 +1,4 @@
+How to use git for beginners 2
+2-Once you create the files you want to commit to git, press Git add and the name of the files
+2-check the status, and then git commit using -m for adding a message between "here"
+3-git log to check what you have done
